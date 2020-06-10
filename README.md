@@ -1,0 +1,2 @@
+# USkyWars
+USkyWars Update Checker
