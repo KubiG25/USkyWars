@@ -24,6 +24,7 @@ Soon:
   Kills effects
   Kill sounds
   Separate chat (Alive players, spectator, team)
+  More
  Placeholders
   usw_solo_played
   usw_team_played
